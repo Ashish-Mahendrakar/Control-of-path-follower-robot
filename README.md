@@ -9,7 +9,7 @@ This project implements a line follower robot using PID control to complete a la
 - **Spark V PNG:** Image of the Spark V sensor used for line detection.
 
 ## Project Files
-- `Arduino_Code.ino` - Arduino code implementing PID control.
+- `source_code.c` - Arduino code implementing PID control.
 - `path.png` - Image of the path followed by the robot.
 - `spark_v.png` - Image of the Spark V sensor used in the project.
 
